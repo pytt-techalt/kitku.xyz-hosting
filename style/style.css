@@ -4,7 +4,7 @@ body {
     background-color: #0F0C19;
     margin: 0;
     font-family: 'VT323', monospace;
-    color: #674cd3;
+    color: #423187;
     margin-bottom: 100px;
     --accent: #4e3aA3;
     --body-fg: #9b7dff;
@@ -36,7 +36,7 @@ a:hover {
 
 .footer {
     background-color: #0F0C19;
-    color: #423187;
+    color: #674cd3;
     padding: 10px;
     text-align: center;
     position: fixed;
