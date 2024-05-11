@@ -21,6 +21,12 @@ body {
     text-align: center;
 }
 
+.spacer {
+    width: 2px;
+    height: 500px;
+    color: #2a1979;
+}
+
 .small {
     font-size: 17px;
 }
