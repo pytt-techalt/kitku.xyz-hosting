@@ -39,6 +39,18 @@ body {
     font-size: 17px;
 }
 
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
 a {
     color: #423187;
     text-decoration: none;
