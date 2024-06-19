@@ -11,6 +11,11 @@ body {
     overflow: hidden;
 }
 
+.pfp {
+    text-align: left;
+    position: fixed;
+}
+
 .container {
     max-width: 800px;
     margin: 0;
